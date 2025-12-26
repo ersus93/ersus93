@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Just another user. Remember to breathe and drink water. Engineer 💼 | Specialist in physico-chemical and organoleptic food analysis 🍏🔬 | Lab Manager 🧪 | Photography enthusiast 📸. Well, that’s it, not much else to tell ✌️🙂.</p>
+<p align="left">Just another user. Remember to breathe and drink water. Engineer 💼 | Specialist in physico-chemical and organoleptic food analysis 🍏🔬 | Lab Manager 🧪 | Photography enthusiast 📸. Well, that’s it, not much else to tell ✌️🙂. I only code for fun; I'm not an expert, not even a junior. But I enjoy it and put in the effort.</p>
 
 ###
 
